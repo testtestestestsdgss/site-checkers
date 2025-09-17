@@ -1,6 +1,6 @@
 # .upptimerc.yml
 owner: testtestestestsdgss
-repo: site-checkers
+repo: status
 user-agent: testtestestestsdgss  # recommended
 
 # Run the uptime workflow every 10 minutes (5 min is the minimum if you prefer)
@@ -38,7 +38,7 @@ status-website:
   # If you use a custom domain, set CNAME:
   # cname: status.yourdomain.com
   # If not, set baseUrl to your repo name:
-  baseUrl: /site-checkers
+  baseUrl: /status
   navbar:
     - title: Status
       href: /
