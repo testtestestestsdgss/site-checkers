@@ -16,9 +16,9 @@ workflowSchedule:
 
 sites:
   - name: Example 1
-    url: a1limobus.com
+    url: https://a1limobus.com
   - name: Example 2
-    url: a1tampalimo.com
+    url: https://a1tampalimo.com
   # …we’ll bulk-add thousands below
 
 status-website:
@@ -26,7 +26,7 @@ status-website:
   # If you use a custom domain, set CNAME:
   # cname: status.yourdomain.com
   # If not, set baseUrl to your repo name:
-  baseUrl: /status
+  baseUrl: /site-checkers
   navbar:
     - title: Status
       href: /
