@@ -1,7 +1,7 @@
 # .upptimerc.yml
-owner: YOUR_GH_USERNAME
+owner: testtestestestsdgss
 repo: status
-user-agent: YOUR_GH_USERNAME  # recommended
+user-agent: testtestestestsdgss  # recommended
 
 # Run the uptime workflow every 10 minutes (5 min is the minimum if you prefer)
 workflowSchedule:
