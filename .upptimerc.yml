@@ -22,7 +22,7 @@ sites:
   # …we’ll bulk-add thousands below
 
 status-website:
-  name: Your Status
+  name: site-checkers
   # If you use a custom domain, set CNAME:
   # cname: status.yourdomain.com
   # If not, set baseUrl to your repo name:
