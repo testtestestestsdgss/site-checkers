@@ -1,6 +1,6 @@
 # .upptimerc.yml
 owner: testtestestestsdgss
-repo: status
+repo: site-checkers
 user-agent: testtestestestsdgss  # recommended
 
 # Run the uptime workflow every 10 minutes (5 min is the minimum if you prefer)
